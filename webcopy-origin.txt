@@ -1,0 +1,12 @@
+Uri: https://creragirevender.com.br/sonotonina
+File Name: C:\Downloaded Web Sites\creragirevender.com.br\sonotonina.html
+Content Type: text/html
+
+Uri: https://creragirevender.com.br/wp-content/plugins/super-presell/assets/bootstrap/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\creragirevender.com.br\wp-content\plugins\super-presell\assets\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://creragirevender.com.br/wp-content/plugins/super-presell/assets/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\creragirevender.com.br\wp-content\plugins\super-presell\assets\js\jquery.min.js
+Content Type: application/x-javascript
+
